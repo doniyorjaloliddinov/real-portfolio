@@ -1,0 +1,88 @@
+/* ------------------- ABOUT ------ */
+body {
+    background-color: #000000;
+}
+
+.site-logo {
+    cursor: pointer;
+}
+
+.site-logo:hover {
+    scale: 1.2;
+}
+
+.site-navbar {
+    width: 550px;
+}
+
+.navbar-list-items {
+    margin: 0;
+    text-decoration: none;
+}
+
+
+.items-content {
+    padding-top: 35px;
+    margin-right: 25px;
+    cursor: pointer;
+    font-family: 'Cera Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 20px;
+    color: #ffffff;
+}
+
+.items-content:hover {
+    scale: 1.1;
+    color: #00c8ff;
+}
+
+.hero-wrapper {
+    width: 1000px;
+}
+
+.welcome,.short-name {
+    font-size: 24px;
+    color: white;
+}
+
+.about-me,.hero-heading {
+    color: rgb(0, 200, 255);
+}
+/* ------------------- ABOUT ------ */
+
+
+/* ---------------- BLOG ---------- */
+.blog-wrapper {
+    margin-top: 45px;
+    margin-bottom: 25px;
+}
+
+.blog-content-wrapper {
+    width: 350px;
+}
+
+.hero-wrapper-blog {
+    border: 3px solid rgb(51, 253, 0);
+    border-radius: 15px;
+}
+
+.blog-content {
+      font-size: 18px;
+      color: white;
+}
+
+.red {
+    color: rgb(210, 48, 48);
+}
+
+.red:hover {
+    color: rgb(0, 163, 251);
+    scale: 1.2;
+}
+
+.white {
+    color: wheat;
+}
+/* ---------------- BLOG ---------- */
