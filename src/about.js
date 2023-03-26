@@ -18,7 +18,7 @@ function About() {
                         </div>
 
                         <div className='hero-img-wrapper '>
-                            <img src='./img/my-logo.jpg' className='' width={350} height={350} />
+                            <img src='./img/me.png' className='' alt='my photo with uzb drawn flag' width={450} height={350} />
                         </div>
                     </div>
                 </div>

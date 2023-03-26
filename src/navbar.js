@@ -17,13 +17,13 @@ function Navbar() {
                         <Link to={'/'} className='navbar-list-items'>
                             <p className='items-content'>About</p>
                         </Link>
-                        <li onClick={() => navigate('/shop')} className='navbar-list-items'>
+                        <li onClick={() => navigate('/blog')} className='navbar-list-items'>
                             <p className='items-content'>Blog</p>
                         </li>
-                        <li onClick={() => navigate('/care')} className='navbar-list-items'>
+                        <li onClick={() => navigate('/study')} className='navbar-list-items'>
                             <p className='items-content'>Study</p>
                         </li>
-                        <li onClick={() => navigate('/blogs')} className='navbar-list-items'>
+                        <li onClick={() => navigate('/contact')} className='navbar-list-items'>
                             <p className='items-content'>Contact</p>
                         </li>
                     </ul>
