@@ -19,7 +19,7 @@ function Study() {
                                     <img className='study-img' onClick={() => navigate('/certs')} src='./img/certs.jpg' alt='' width={220} height={150} />
                                 </li>
                                 <li className=''>
-                                    <img className='study-img' onClick={() => navigate('/plans')} src='./img/certs.jpg' src='./img/study-roadmap.jpg' alt='' width={220} height={150} />
+                                    <img className='study-img' onClick={() => navigate('/plans')} src='./img/study-roadmap.jpg' alt='' width={220} height={150} />
                                 </li>
                             </ul>                      
                     </div>
